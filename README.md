@@ -2,6 +2,7 @@
 
 ![Design preview for the Grid landing page coding challenge](./preview.jpg)
 
+Simple challenger from Frontend Mentor Website that focus on using grid in the layout of page so simple but my solution need more details so that what I can do now.
 ## Welcome! 👋
 
 Thanks for checking out this coding challenge.
